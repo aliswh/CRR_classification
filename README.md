@@ -1,2 +1,16 @@
-# CRR_classification
+# Cis-Regulatory Regions Classification: Bioinformatics practice
 Prediction of activation of Cis-Regulatory Regions (enhancers and promoters) on the K562 cell line via deep learning methods.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lU7mCWV8bwIkSoNibnEwsE2I0anRhksO?usp=sharing)
+
+> Project developed for course of "Bioinformatics" at Università degli Studi Statale di Milano, held by Professor Giorgio Valentini.
+
+Models: Random Forests, T-SNE, UMAP, DNN, CNN, MMNN (DNN+CNN)
+
+![](https://github.com/aliswh/ser_ae/blob/main/cm.png?raw=true)
+
+
+
+## Code credits
+Special mention to the packages and reference [code](https://github.com/LucaCappelletti94/bioinformatics_practice) developed by Luca Cappelletti. 
+
